@@ -32,3 +32,11 @@ In Intellij, import downloaded project:<br>
 8. Click Finish  
 
 If you get stuck at any point, no worries! We'll make sure everyone is good to go during the workshop.
+
+### Andrea questions
+
+- Importing the pom.xml doesn't bring over all the other project folders. Can I import it all in one shmear?
+- Why do I have two .idea folders, is that normal
+- Right click index.html > build(? I don't think the option is showing up anymore, so I'm not sure) and now it shows up as a configuration I can run and it will launch on Chrome on my local
+- OR - just right click > open in Chrome
+- Now, where should I put tests? lol
